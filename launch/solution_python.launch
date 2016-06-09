@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="cse_190_final" type="robot.py" name="robot" output="screen" required="true"/> 
+</launch>
